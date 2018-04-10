@@ -12,7 +12,7 @@ public class demo5 {
 		d1.get("http:\\www.google.com");
 		d1.get("http:\\www.facebook.com");
 		d1.findElement(By.id("email")).sendKeys("supreme@gmail.com");
-		d1.findElement(By.id("pass")).sendKeys("123456");
+		d1.findElement(By.id("ss")).sendKeys("123456");
 		d1.quit();
 	}
 
